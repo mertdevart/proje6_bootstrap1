@@ -1,0 +1,19 @@
+body {
+  background-color: #e9ecef;
+}
+.nav-items {
+  color: grey;
+}
+.nav-items:hover {
+  text-decoration: none;
+  color: white;
+}
+.logo {
+  color: rgb(156, 20, 20);
+}
+.ft-18 {
+  font-size: 18px;
+}
+.ft-21 {
+  font-size: 21px;
+}
