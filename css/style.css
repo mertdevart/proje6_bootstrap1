@@ -17,3 +17,8 @@ body {
 .ft-21 {
   font-size: 21px;
 }
+.jumbotron-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
