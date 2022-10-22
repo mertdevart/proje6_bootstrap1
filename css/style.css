@@ -1,6 +1,9 @@
 body {
   background-color: #e9ecef;
 }
+.t-purpple {
+  color: purple;
+}
 .nav-items {
   color: grey;
 }
